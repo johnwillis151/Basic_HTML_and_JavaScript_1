@@ -1,14 +1,17 @@
-body 
-      <style>
+ 
+      
 	     body { background-color: grey;
 		} 
-		.<font { 
+		font { 
 		  color: blue;
 		  }
 		a:hover{
 		    background-color: yellow;
 			}
 		p.solid {border-style: solid;}
-	</head>
-	<link href="HTML_Table.html"
-</style>
+        
+        .shad {
+            text-shadow: 2px 2px 2px black;
+        }
+	   
+	
